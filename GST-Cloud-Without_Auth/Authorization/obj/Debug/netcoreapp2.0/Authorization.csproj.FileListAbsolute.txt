@@ -86,3 +86,14 @@ C:\Users\wenqi\Documents\DeviceConfigurationService\GST-Cloud-Without_Auth\Autho
 C:\Users\wenqi\Documents\DeviceConfigurationService\GST-Cloud-Without_Auth\Authorization\obj\Debug\netcoreapp2.0\Authorization.AssemblyInfo.cs
 C:\Users\wenqi\Documents\DeviceConfigurationService\GST-Cloud-Without_Auth\Authorization\obj\Debug\netcoreapp2.0\Authorization.dll
 C:\Users\wenqi\Documents\DeviceConfigurationService\GST-Cloud-Without_Auth\Authorization\obj\Debug\netcoreapp2.0\Authorization.pdb
+C:\Users\wenqi\Documents\DeviceConfigurationService\Data-Transfer-Service\GST-Cloud-Without_Auth\Authorization\bin\Debug\netcoreapp2.0\Authorization.deps.json
+C:\Users\wenqi\Documents\DeviceConfigurationService\Data-Transfer-Service\GST-Cloud-Without_Auth\Authorization\bin\Debug\netcoreapp2.0\Authorization.runtimeconfig.json
+C:\Users\wenqi\Documents\DeviceConfigurationService\Data-Transfer-Service\GST-Cloud-Without_Auth\Authorization\bin\Debug\netcoreapp2.0\Authorization.runtimeconfig.dev.json
+C:\Users\wenqi\Documents\DeviceConfigurationService\Data-Transfer-Service\GST-Cloud-Without_Auth\Authorization\bin\Debug\netcoreapp2.0\Authorization.dll
+C:\Users\wenqi\Documents\DeviceConfigurationService\Data-Transfer-Service\GST-Cloud-Without_Auth\Authorization\bin\Debug\netcoreapp2.0\Authorization.pdb
+C:\Users\wenqi\Documents\DeviceConfigurationService\Data-Transfer-Service\GST-Cloud-Without_Auth\Authorization\obj\Debug\netcoreapp2.0\Authorization.csprojAssemblyReference.cache
+C:\Users\wenqi\Documents\DeviceConfigurationService\Data-Transfer-Service\GST-Cloud-Without_Auth\Authorization\obj\Debug\netcoreapp2.0\Authorization.csproj.CoreCompileInputs.cache
+C:\Users\wenqi\Documents\DeviceConfigurationService\Data-Transfer-Service\GST-Cloud-Without_Auth\Authorization\obj\Debug\netcoreapp2.0\Authorization.AssemblyInfoInputs.cache
+C:\Users\wenqi\Documents\DeviceConfigurationService\Data-Transfer-Service\GST-Cloud-Without_Auth\Authorization\obj\Debug\netcoreapp2.0\Authorization.AssemblyInfo.cs
+C:\Users\wenqi\Documents\DeviceConfigurationService\Data-Transfer-Service\GST-Cloud-Without_Auth\Authorization\obj\Debug\netcoreapp2.0\Authorization.dll
+C:\Users\wenqi\Documents\DeviceConfigurationService\Data-Transfer-Service\GST-Cloud-Without_Auth\Authorization\obj\Debug\netcoreapp2.0\Authorization.pdb

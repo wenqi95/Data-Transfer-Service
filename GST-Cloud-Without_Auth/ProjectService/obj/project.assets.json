@@ -12668,11 +12668,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\wenqi\\Documents\\DeviceConfigurationService\\GST-Cloud-Without_Auth\\ProjectService\\ProjectService.csproj",
+      "projectUniqueName": "C:\\Users\\wenqi\\Documents\\DeviceConfigurationService\\Data-Transfer-Service\\GST-Cloud-Without_Auth\\ProjectService\\ProjectService.csproj",
       "projectName": "ProjectService",
-      "projectPath": "C:\\Users\\wenqi\\Documents\\DeviceConfigurationService\\GST-Cloud-Without_Auth\\ProjectService\\ProjectService.csproj",
+      "projectPath": "C:\\Users\\wenqi\\Documents\\DeviceConfigurationService\\Data-Transfer-Service\\GST-Cloud-Without_Auth\\ProjectService\\ProjectService.csproj",
       "packagesPath": "C:\\Users\\wenqi\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\wenqi\\Documents\\DeviceConfigurationService\\GST-Cloud-Without_Auth\\ProjectService\\obj\\",
+      "outputPath": "C:\\Users\\wenqi\\Documents\\DeviceConfigurationService\\Data-Transfer-Service\\GST-Cloud-Without_Auth\\ProjectService\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

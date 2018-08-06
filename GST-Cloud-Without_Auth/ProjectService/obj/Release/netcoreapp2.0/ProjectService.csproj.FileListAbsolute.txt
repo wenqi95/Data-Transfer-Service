@@ -31,3 +31,14 @@ C:\Users\wenqi\Documents\DeviceConfigurationService\gst-backend-service\gst-back
 C:\Users\wenqi\Documents\DeviceConfigurationService\gst-backend-service\gst-backend-service\DeviceConfigurationService\ProjectService\obj\Release\netcoreapp2.0\ProjectService.AssemblyInfo.cs
 C:\Users\wenqi\Documents\DeviceConfigurationService\gst-backend-service\gst-backend-service\DeviceConfigurationService\ProjectService\obj\Release\netcoreapp2.0\ProjectService.dll
 C:\Users\wenqi\Documents\DeviceConfigurationService\gst-backend-service\gst-backend-service\DeviceConfigurationService\ProjectService\obj\Release\netcoreapp2.0\ProjectService.pdb
+C:\Users\wenqi\Documents\DeviceConfigurationService\Data-Transfer-Service\GST-Cloud-Without_Auth\ProjectService\bin\Release\netcoreapp2.0\ProjectService.deps.json
+C:\Users\wenqi\Documents\DeviceConfigurationService\Data-Transfer-Service\GST-Cloud-Without_Auth\ProjectService\bin\Release\netcoreapp2.0\ProjectService.runtimeconfig.json
+C:\Users\wenqi\Documents\DeviceConfigurationService\Data-Transfer-Service\GST-Cloud-Without_Auth\ProjectService\bin\Release\netcoreapp2.0\ProjectService.runtimeconfig.dev.json
+C:\Users\wenqi\Documents\DeviceConfigurationService\Data-Transfer-Service\GST-Cloud-Without_Auth\ProjectService\bin\Release\netcoreapp2.0\ProjectService.dll
+C:\Users\wenqi\Documents\DeviceConfigurationService\Data-Transfer-Service\GST-Cloud-Without_Auth\ProjectService\bin\Release\netcoreapp2.0\ProjectService.pdb
+C:\Users\wenqi\Documents\DeviceConfigurationService\Data-Transfer-Service\GST-Cloud-Without_Auth\ProjectService\obj\Release\netcoreapp2.0\ProjectService.csprojAssemblyReference.cache
+C:\Users\wenqi\Documents\DeviceConfigurationService\Data-Transfer-Service\GST-Cloud-Without_Auth\ProjectService\obj\Release\netcoreapp2.0\ProjectService.csproj.CoreCompileInputs.cache
+C:\Users\wenqi\Documents\DeviceConfigurationService\Data-Transfer-Service\GST-Cloud-Without_Auth\ProjectService\obj\Release\netcoreapp2.0\ProjectService.AssemblyInfoInputs.cache
+C:\Users\wenqi\Documents\DeviceConfigurationService\Data-Transfer-Service\GST-Cloud-Without_Auth\ProjectService\obj\Release\netcoreapp2.0\ProjectService.AssemblyInfo.cs
+C:\Users\wenqi\Documents\DeviceConfigurationService\Data-Transfer-Service\GST-Cloud-Without_Auth\ProjectService\obj\Release\netcoreapp2.0\ProjectService.dll
+C:\Users\wenqi\Documents\DeviceConfigurationService\Data-Transfer-Service\GST-Cloud-Without_Auth\ProjectService\obj\Release\netcoreapp2.0\ProjectService.pdb

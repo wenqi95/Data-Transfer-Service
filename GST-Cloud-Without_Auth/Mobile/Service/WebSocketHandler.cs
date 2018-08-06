@@ -18,7 +18,7 @@ namespace Mobile.Service
         private Dictionary<String, WebSocket> webSocketMap = null;
 
 
-        private WebSocketHandler()
+        private WebSocketHandler() 
         {
             webSocketMap = new Dictionary<String, WebSocket>();
         }
@@ -81,18 +81,46 @@ namespace Mobile.Service
                     {
                         resultStr = "OK";
                         var deviceStr = Encoding.UTF8.GetString(resultBuffer);
-                        var devices = JsonConvert.DeserializeObject<ProjectInfoModel>(deviceStr);
-                        var model = MobileUtils.instance.UploadFromMobile(devices.Project.Id,devices);
 
-                        resultBuffer = null;
-                        oldBuffer = new byte[0];
-                        size = 0;
+                        if (isHandShakeMessage(deviceStr))
+                        {
+                            var handShakeMsgModel = JsonConvert.DeserializeObject<MobileConnStateModel>(deviceStr);
+                            String id = findTokenFromWebSocket(webSocket);
+                            Boolean pushMsg = pushHandShakeToCFG(id, handShakeMsgModel);
+
+                            resultBuffer = null;
+                            oldBuffer = new byte[0];
+                            size = 0;
+                        }
+
+                        if (isDownloadProcessMessage(deviceStr))
+                        {
+                            var downloadProcessModel = JsonConvert.DeserializeObject<DownloadProcessModel>(deviceStr);
+                            String id = findTokenFromWebSocket(webSocket);
+                            Boolean push = pushDownloadProcessToCFG(id, downloadProcessModel);
+
+                            resultBuffer = null;
+                            oldBuffer = new byte[0];
+                            size = 0;
+                        }
+
+                        else
+                        {
+                            var devices = JsonConvert.DeserializeObject<ProjectInfoModel>(deviceStr);
+                            var model = MobileUtils.instance.UploadFromMobile(devices.Project.Id, devices);
+                            String id = findTokenFromWebSocket(webSocket);
+                            Boolean push = pushToCFGTool(id, devices);
+
+                            resultBuffer = null;
+                            oldBuffer = new byte[0];
+                            size = 0;
+                        }
                     }
 
                 }
                 catch (Exception e)
                 {
-                    resultStr = "Bad request";
+                    resultStr = "No connection or data format error";
                     resultBuffer = null;
                     oldBuffer = new byte[0];
                     size = 0;
@@ -138,6 +166,21 @@ namespace Mobile.Service
                 }
             }
             return token;
+        }
+
+        private Boolean pushHandShakeToCFG(String id, MobileConnStateModel model)
+        {
+            return MobileUtils.instance.pushHandShakeToCFG(id, model);
+        }
+
+        private Boolean pushDownloadProcessToCFG(String id, DownloadProcessModel model)
+        {
+            return MobileUtils.instance.pushDownloadProcessToCFG(id, model);
+        }
+
+        private Boolean pushToCFGTool(String id, ProjectInfoModel model)
+        {
+            return MobileUtils.instance.pushToCFGTool(id, model);
         }
 
         public async Task<Boolean> PushAuthorizedInfoToReceiver(String key, ProjectInfoModel info)
@@ -280,6 +323,24 @@ namespace Mobile.Service
 
             String key = ce.PublicKeyBase64();
             return key;
+        }
+
+        public Boolean isHandShakeMessage(String str)
+        {
+            var dataOject = Newtonsoft.Json.Linq.JObject.Parse(str);
+            if (dataOject.Property("MobileConnState") != null)
+                return true;
+            else
+                return false;
+        }
+
+        public Boolean isDownloadProcessMessage(String str)
+        {
+            var dataOject = Newtonsoft.Json.Linq.JObject.Parse(str);
+            if (dataOject.Property("MobileDownloadProcess") != null)
+                return true;
+            else
+                return false;
         }
 
     }

@@ -14,6 +14,9 @@ namespace Mobile.Service
         private String storageHost = "projectservice201808.azurewebsites.net";
         private int storagePort = 443;
 
+        private String uploadHost = "CFGtool201808.azurewebsites.net";
+        private int uploadPort = 443;
+
         private String authorizeHost = "authorization201808.azurewebsites.net";
         private int authorizePort = 443;
 
@@ -107,6 +110,70 @@ namespace Mobile.Service
             responseStream.Close();
 
             return retString;
+        }
+
+        public Boolean pushHandShakeToCFG(String id, MobileConnStateModel model)
+        {
+            String uri = uploadUriWithPath("api/CFGTool/pushHandShakeToCFG/" + id);
+            HttpWebRequest request = WebRequest.CreateHttp(uri);
+            request.Method = "POST";
+            request.ContentType = "application/json";
+            String modelStr = JsonConvert.SerializeObject(model);
+            var data = Encoding.UTF8.GetBytes(modelStr);
+            request.ContentLength = data.Length;
+            using (var stream = request.GetRequestStream())
+            {
+                stream.Write(data, 0, data.Length);
+            }
+            string retString = getContentFromRequest(request);
+            return JsonConvert.DeserializeObject<Boolean>(retString);
+        }
+
+        public Boolean pushDownloadProcessToCFG(String id, DownloadProcessModel model)
+        {
+            String uri = uploadUriWithPath("api/CFGTool/pushDownloadProcessToCFG/" + id);
+            HttpWebRequest request = WebRequest.CreateHttp(uri);
+            request.Method = "POST";
+            request.ContentType = "application/json";
+            String modelStr = JsonConvert.SerializeObject(model);
+            var data = Encoding.UTF8.GetBytes(modelStr);
+            request.ContentLength = data.Length;
+            using (var stream = request.GetRequestStream())
+            {
+                stream.Write(data, 0, data.Length);
+            }
+            string retString = getContentFromRequest(request);
+            return JsonConvert.DeserializeObject<Boolean>(retString);
+        }
+
+
+        public Boolean pushToCFGTool(String id, ProjectInfoModel model)
+        {
+            String uri = uploadUriWithPath("api/CFGTool/pushToCFGTool/" + id);
+            HttpWebRequest request = WebRequest.CreateHttp(uri);
+            request.Method = "POST";
+            request.ContentType = "application/json";
+            String modelStr = JsonConvert.SerializeObject(model);
+            var data = Encoding.UTF8.GetBytes(modelStr);
+            request.ContentLength = data.Length;
+            using (var stream = request.GetRequestStream())
+            {
+                stream.Write(data, 0, data.Length);
+            }
+            string retString = getContentFromRequest(request);
+            return JsonConvert.DeserializeObject<Boolean>(retString);
+        }
+
+
+        public String uploadUriWithPath(String path)
+        {
+            UriBuilder uriBuilder = new UriBuilder();
+            uriBuilder.Scheme = "https";
+            uriBuilder.Host = this.uploadHost;
+            uriBuilder.Port = this.uploadPort;
+            uriBuilder.Path = path;
+
+            return uriBuilder.Uri.OriginalString;
         }
     }
 }

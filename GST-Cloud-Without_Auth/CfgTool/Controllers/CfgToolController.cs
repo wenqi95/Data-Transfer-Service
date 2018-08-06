@@ -7,6 +7,7 @@ using Newtonsoft.Json;
 using System;
 using System.Collections.Generic;
 using System.IO;
+using System.Threading.Tasks;
 
 namespace CfgTool.Controllers
 {
@@ -35,6 +36,29 @@ namespace CfgTool.Controllers
         {
             return CfgToolUtils.instance.UploadInfo(model);
         }
-        
+
+        [HttpPost]
+        [Route("pushHandShakeToCFG/{id}")]
+        public async Task<Boolean> pushHandShakeToCFG(String id, [FromBody] MobileConnStateModel model)
+        {
+            return await WebSocketHandler.instance.pushHandShakeToCFG(id, model);
+        }
+
+        [HttpPost]
+        [Route("pushDownloadProcessToCFG/{id}")]
+        public async Task<Boolean> pushDownloadProcessToCFG(String id, [FromBody] DownloadProcessModel model)
+        {
+            return await WebSocketHandler.instance.pushDownloadProcessToCFG(id, model);
+        }
+
+        [HttpPost]
+        [Route("pushToCFGTool/{id}")]
+        public async Task<Boolean> pushToCFGTool(String id, [FromBody] ProjectInfoModel model)
+        {
+            return await WebSocketHandler.instance.pushToCFGTool(id, model);
+        }
+
+
+
     }
 }

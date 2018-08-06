@@ -1,5 +1,5 @@
-C:\Users\wenqi\Documents\DeviceConfigurationService\GST-Cloud-Without_Auth\Mobile
+C:\Users\wenqi\Documents\DeviceConfigurationService\Data-Transfer-Service\GST-Cloud-Without_Auth\Mobile
 --output-path=obj\Release\netcoreapp2.0\
 --application-name=Mobile
---content-root=C:\Users\wenqi\Documents\DeviceConfigurationService\GST-Cloud-Without_Auth\Mobile
+--content-root=C:\Users\wenqi\Documents\DeviceConfigurationService\Data-Transfer-Service\GST-Cloud-Without_Auth\Mobile
 --file=

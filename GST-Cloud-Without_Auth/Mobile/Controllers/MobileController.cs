@@ -25,7 +25,20 @@ namespace Mobile.Controllers
         [Route("PushToReceiver/{id}")]
         public async Task<Boolean> PushToReceiverAsync(String id, [FromBody] ProjectInfoModel projectInfo)
         {
-            return await WebSocketHandler.instance.PushAuthorizedInfoToReceiver(id, projectInfo);
+            var result = false;
+            try
+            {
+                result = await WebSocketHandler.instance.PushAuthorizedInfoToReceiver(id, projectInfo);
+            }
+            catch (Exception e)
+            {
+                result = false;
+            }
+            finally
+            {
+            }
+            return result;
+                 
         }
 
         [HttpPost]

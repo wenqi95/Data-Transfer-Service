@@ -83,7 +83,7 @@ namespace UserManagement.Services
             if (!hasCounter)
             {
                 hasCounter = true;
-                //Renew graphToken every 55min
+                //Renew graphToken every 58min
                 timer = new Timer(TimeCouterFeedBack, null, 0, 3300000);
             }
         }

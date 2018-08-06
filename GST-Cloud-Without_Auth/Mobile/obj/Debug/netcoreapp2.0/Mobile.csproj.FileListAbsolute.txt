@@ -28,3 +28,14 @@ C:\Users\Liuyingy\Desktop\inter_utrc\GST-Cloud\Mobile\obj\Debug\netcoreapp2.0\Mo
 C:\Users\Liuyingy\Desktop\inter_utrc\GST-Cloud\Mobile\obj\Debug\netcoreapp2.0\Mobile.AssemblyInfo.cs
 C:\Users\Liuyingy\Desktop\inter_utrc\GST-Cloud\Mobile\obj\Debug\netcoreapp2.0\Mobile.dll
 C:\Users\Liuyingy\Desktop\inter_utrc\GST-Cloud\Mobile\obj\Debug\netcoreapp2.0\Mobile.pdb
+C:\Users\wenqi\Documents\DeviceConfigurationService\Data-Transfer-Service\GST-Cloud-Without_Auth\Mobile\bin\Debug\netcoreapp2.0\Mobile.deps.json
+C:\Users\wenqi\Documents\DeviceConfigurationService\Data-Transfer-Service\GST-Cloud-Without_Auth\Mobile\bin\Debug\netcoreapp2.0\Mobile.runtimeconfig.json
+C:\Users\wenqi\Documents\DeviceConfigurationService\Data-Transfer-Service\GST-Cloud-Without_Auth\Mobile\bin\Debug\netcoreapp2.0\Mobile.runtimeconfig.dev.json
+C:\Users\wenqi\Documents\DeviceConfigurationService\Data-Transfer-Service\GST-Cloud-Without_Auth\Mobile\bin\Debug\netcoreapp2.0\Mobile.dll
+C:\Users\wenqi\Documents\DeviceConfigurationService\Data-Transfer-Service\GST-Cloud-Without_Auth\Mobile\bin\Debug\netcoreapp2.0\Mobile.pdb
+C:\Users\wenqi\Documents\DeviceConfigurationService\Data-Transfer-Service\GST-Cloud-Without_Auth\Mobile\obj\Debug\netcoreapp2.0\Mobile.csprojAssemblyReference.cache
+C:\Users\wenqi\Documents\DeviceConfigurationService\Data-Transfer-Service\GST-Cloud-Without_Auth\Mobile\obj\Debug\netcoreapp2.0\Mobile.csproj.CoreCompileInputs.cache
+C:\Users\wenqi\Documents\DeviceConfigurationService\Data-Transfer-Service\GST-Cloud-Without_Auth\Mobile\obj\Debug\netcoreapp2.0\Mobile.AssemblyInfoInputs.cache
+C:\Users\wenqi\Documents\DeviceConfigurationService\Data-Transfer-Service\GST-Cloud-Without_Auth\Mobile\obj\Debug\netcoreapp2.0\Mobile.AssemblyInfo.cs
+C:\Users\wenqi\Documents\DeviceConfigurationService\Data-Transfer-Service\GST-Cloud-Without_Auth\Mobile\obj\Debug\netcoreapp2.0\Mobile.dll
+C:\Users\wenqi\Documents\DeviceConfigurationService\Data-Transfer-Service\GST-Cloud-Without_Auth\Mobile\obj\Debug\netcoreapp2.0\Mobile.pdb

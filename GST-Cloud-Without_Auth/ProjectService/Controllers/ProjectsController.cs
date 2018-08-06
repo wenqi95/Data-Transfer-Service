@@ -132,7 +132,7 @@ namespace ProjectService.Controllers
                 sqlManager = new SqlDBManager();
             }
             IEnumerable<ProjectModel> ProjectList = await sqlManager.GetProjectByUserAsync(user);
-            List<String> ProjectIdList = null;
+            List<String> ProjectIdList = new List<String>();
             foreach (var project in ProjectList)
             {
                 ProjectIdList.Add(project.ProjectId);

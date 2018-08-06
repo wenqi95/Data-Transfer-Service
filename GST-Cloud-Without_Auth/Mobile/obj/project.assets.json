@@ -12689,11 +12689,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\wenqi\\Documents\\DeviceConfigurationService\\GST-Cloud-Without_Auth\\Mobile\\Mobile.csproj",
+      "projectUniqueName": "C:\\Users\\wenqi\\Documents\\DeviceConfigurationService\\Data-Transfer-Service\\GST-Cloud-Without_Auth\\Mobile\\Mobile.csproj",
       "projectName": "Mobile",
-      "projectPath": "C:\\Users\\wenqi\\Documents\\DeviceConfigurationService\\GST-Cloud-Without_Auth\\Mobile\\Mobile.csproj",
+      "projectPath": "C:\\Users\\wenqi\\Documents\\DeviceConfigurationService\\Data-Transfer-Service\\GST-Cloud-Without_Auth\\Mobile\\Mobile.csproj",
       "packagesPath": "C:\\Users\\wenqi\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\wenqi\\Documents\\DeviceConfigurationService\\GST-Cloud-Without_Auth\\Mobile\\obj\\",
+      "outputPath": "C:\\Users\\wenqi\\Documents\\DeviceConfigurationService\\Data-Transfer-Service\\GST-Cloud-Without_Auth\\Mobile\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

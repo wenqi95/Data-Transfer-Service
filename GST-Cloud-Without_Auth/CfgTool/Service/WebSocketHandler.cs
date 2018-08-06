@@ -1,8 +1,8 @@
 ﻿using Microsoft.AspNetCore.Http;
 using Newtonsoft.Json;
-using Newtonsoft.Json.Linq;
 using CfgTool.Models;
-using System;
+using System;using Newtonsoft.Json.Linq;
+
 using System.Collections;
 using System.Collections.Generic;
 using System.Net.WebSockets;
@@ -82,18 +82,18 @@ namespace CfgTool.Service
                         resultStr = "OK";
                         var deviceStr = Encoding.UTF8.GetString(resultBuffer);
 
-                        //if (isHandShakeMessage(deviceStr))
-                        //{
-                        //    var handShakeMsgModel = JsonConvert.DeserializeObject<CFGConnStateModel>(deviceStr);
-                        //    String id = findTokenFromWebSocket(webSocket);
-                        //    Boolean pushMsg = pushHandShakeToReceiver(id, handShakeMsgModel);
+                        if (isHandShakeMessage(deviceStr))
+                        {
+                            var handShakeMsgModel = JsonConvert.DeserializeObject<CFGConnStateModel>(deviceStr);
+                            String id = findTokenFromWebSocket(webSocket);
+                            Boolean pushMsg = pushHandShakeToReceiver(id, handShakeMsgModel);
 
-                        //    resultBuffer = null;
-                        //    oldBuffer = new byte[0];
-                        //    size = 0;
-                        //}
-                        //else
-                        //{
+                            resultBuffer = null;
+                            oldBuffer = new byte[0];
+                            size = 0;
+                        }
+                        else
+                        {
                             var devices = JsonConvert.DeserializeObject<ProjectInfoModel>(deviceStr);
                             var model = CfgToolUtils.instance.UploadInfo(devices);
                             String id = findTokenFromWebSocket(webSocket);
@@ -102,12 +102,12 @@ namespace CfgTool.Service
                             resultBuffer = null;
                             oldBuffer = new byte[0];
                             size = 0;
-                        //}
+                        }
                     }
                 }
                 catch (Exception e)
                 {
-                    resultStr = "Bad request";
+                    resultStr = "No connection or data format error, try again later";
                     resultBuffer = null;
                     oldBuffer = new byte[0];
                     size = 0;
@@ -180,14 +180,60 @@ namespace CfgTool.Service
 
         public Boolean isHandShakeMessage(String str)
         {
-            dynamic dataOject = JObject.Parse(str);
-            Type myType = dataOject.getType();
-            FieldInfo[] myField = myType.GetFields();
-            for (int i = 0; i < myField.Length; i++)
-            {
-                if (myField[i].Name == "CFGConnState") return true; 
-            }
-            return false;
+            var dataOject = Newtonsoft.Json.Linq.JObject.Parse(str);
+            if (dataOject.Property("CFGConnState") != null)
+                return true;
+            else
+                return false;
         }
+
+        public async Task<Boolean> pushHandShakeToCFG(String key, MobileConnStateModel model)
+        {
+            var ModelStr = JsonConvert.SerializeObject(model);
+            var byteArray = Encoding.UTF8.GetBytes(ModelStr);
+
+            if (this.webSocketMap.ContainsKey(key) && isValidToken(key))
+            {
+                await this.webSocketMap[key].SendAsync(byteArray, WebSocketMessageType.Text, true, CancellationToken.None);
+                return true;
+            }
+            else
+            {
+                return false;
+            }
+        }
+
+        public async Task<Boolean> pushDownloadProcessToCFG(String key, DownloadProcessModel model)
+        {
+            var ModelStr = JsonConvert.SerializeObject(model);
+            var byteArray = Encoding.UTF8.GetBytes(ModelStr);
+
+            if (this.webSocketMap.ContainsKey(key) && isValidToken(key))
+            {
+                await this.webSocketMap[key].SendAsync(byteArray, WebSocketMessageType.Text, true, CancellationToken.None);
+                return true;
+            }
+            else
+            {
+                return false;
+            }
+        }
+
+        public async Task<Boolean> pushToCFGTool(String key, ProjectInfoModel model)
+        {
+            var ModelStr = JsonConvert.SerializeObject(model);
+            var byteArray = Encoding.UTF8.GetBytes(ModelStr);
+
+            if (this.webSocketMap.ContainsKey(key) && isValidToken(key))
+            {
+                await this.webSocketMap[key].SendAsync(byteArray, WebSocketMessageType.Text, true, CancellationToken.None);
+                return true;
+            }
+            else
+            {
+                return false;
+            }
+        }
+
     }
 }

@@ -31,3 +31,14 @@ C:\Users\wenqi\Documents\DeviceConfigurationService\GST-Cloud-Without_Auth\CfgTo
 C:\Users\wenqi\Documents\DeviceConfigurationService\GST-Cloud-Without_Auth\CfgTool\obj\Release\netcoreapp2.0\CfgTool.AssemblyInfo.cs
 C:\Users\wenqi\Documents\DeviceConfigurationService\GST-Cloud-Without_Auth\CfgTool\obj\Release\netcoreapp2.0\CfgTool.dll
 C:\Users\wenqi\Documents\DeviceConfigurationService\GST-Cloud-Without_Auth\CfgTool\obj\Release\netcoreapp2.0\CfgTool.pdb
+C:\Users\wenqi\Documents\DeviceConfigurationService\Data-Transfer-Service\GST-Cloud-Without_Auth\CfgTool\bin\Release\netcoreapp2.0\CfgTool.deps.json
+C:\Users\wenqi\Documents\DeviceConfigurationService\Data-Transfer-Service\GST-Cloud-Without_Auth\CfgTool\bin\Release\netcoreapp2.0\CfgTool.runtimeconfig.json
+C:\Users\wenqi\Documents\DeviceConfigurationService\Data-Transfer-Service\GST-Cloud-Without_Auth\CfgTool\bin\Release\netcoreapp2.0\CfgTool.runtimeconfig.dev.json
+C:\Users\wenqi\Documents\DeviceConfigurationService\Data-Transfer-Service\GST-Cloud-Without_Auth\CfgTool\bin\Release\netcoreapp2.0\CfgTool.dll
+C:\Users\wenqi\Documents\DeviceConfigurationService\Data-Transfer-Service\GST-Cloud-Without_Auth\CfgTool\bin\Release\netcoreapp2.0\CfgTool.pdb
+C:\Users\wenqi\Documents\DeviceConfigurationService\Data-Transfer-Service\GST-Cloud-Without_Auth\CfgTool\obj\Release\netcoreapp2.0\CfgTool.csprojAssemblyReference.cache
+C:\Users\wenqi\Documents\DeviceConfigurationService\Data-Transfer-Service\GST-Cloud-Without_Auth\CfgTool\obj\Release\netcoreapp2.0\CfgTool.csproj.CoreCompileInputs.cache
+C:\Users\wenqi\Documents\DeviceConfigurationService\Data-Transfer-Service\GST-Cloud-Without_Auth\CfgTool\obj\Release\netcoreapp2.0\CfgTool.AssemblyInfoInputs.cache
+C:\Users\wenqi\Documents\DeviceConfigurationService\Data-Transfer-Service\GST-Cloud-Without_Auth\CfgTool\obj\Release\netcoreapp2.0\CfgTool.AssemblyInfo.cs
+C:\Users\wenqi\Documents\DeviceConfigurationService\Data-Transfer-Service\GST-Cloud-Without_Auth\CfgTool\obj\Release\netcoreapp2.0\CfgTool.dll
+C:\Users\wenqi\Documents\DeviceConfigurationService\Data-Transfer-Service\GST-Cloud-Without_Auth\CfgTool\obj\Release\netcoreapp2.0\CfgTool.pdb
