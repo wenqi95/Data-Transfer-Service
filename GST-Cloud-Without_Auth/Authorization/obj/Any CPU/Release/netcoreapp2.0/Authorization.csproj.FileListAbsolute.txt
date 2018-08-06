@@ -1,0 +1,11 @@
+D:\Develop_Project\DeviceConfigurationService\Authorization\bin\Any CPU\Release\netcoreapp2.0\Authorization.deps.json
+D:\Develop_Project\DeviceConfigurationService\Authorization\bin\Any CPU\Release\netcoreapp2.0\Authorization.runtimeconfig.json
+D:\Develop_Project\DeviceConfigurationService\Authorization\bin\Any CPU\Release\netcoreapp2.0\Authorization.runtimeconfig.dev.json
+D:\Develop_Project\DeviceConfigurationService\Authorization\bin\Any CPU\Release\netcoreapp2.0\Authorization.dll
+D:\Develop_Project\DeviceConfigurationService\Authorization\bin\Any CPU\Release\netcoreapp2.0\Authorization.pdb
+D:\Develop_Project\DeviceConfigurationService\Authorization\obj\Any CPU\Release\netcoreapp2.0\Authorization.csproj.CoreCompileInputs.cache
+D:\Develop_Project\DeviceConfigurationService\Authorization\obj\Any CPU\Release\netcoreapp2.0\Authorization.AssemblyInfoInputs.cache
+D:\Develop_Project\DeviceConfigurationService\Authorization\obj\Any CPU\Release\netcoreapp2.0\Authorization.AssemblyInfo.cs
+D:\Develop_Project\DeviceConfigurationService\Authorization\obj\Any CPU\Release\netcoreapp2.0\Authorization.dll
+D:\Develop_Project\DeviceConfigurationService\Authorization\obj\Any CPU\Release\netcoreapp2.0\Authorization.pdb
+D:\Develop_Project\DeviceConfigurationService\Authorization\obj\Any CPU\Release\netcoreapp2.0\Authorization.csprojResolveAssemblyReference.cache

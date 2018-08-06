@@ -1,0 +1,110 @@
+D:\Develop_Project\DeviceConfigurationService\Authorization\bin\Release\netcoreapp2.0\Authorization.deps.json
+D:\Develop_Project\DeviceConfigurationService\Authorization\bin\Release\netcoreapp2.0\Authorization.runtimeconfig.json
+D:\Develop_Project\DeviceConfigurationService\Authorization\bin\Release\netcoreapp2.0\Authorization.runtimeconfig.dev.json
+D:\Develop_Project\DeviceConfigurationService\Authorization\bin\Release\netcoreapp2.0\Authorization.dll
+D:\Develop_Project\DeviceConfigurationService\Authorization\bin\Release\netcoreapp2.0\Authorization.pdb
+D:\Develop_Project\DeviceConfigurationService\Authorization\obj\Release\netcoreapp2.0\Authorization.csprojResolveAssemblyReference.cache
+D:\Develop_Project\DeviceConfigurationService\Authorization\obj\Release\netcoreapp2.0\Authorization.csproj.CoreCompileInputs.cache
+D:\Develop_Project\DeviceConfigurationService\Authorization\obj\Release\netcoreapp2.0\Authorization.AssemblyInfoInputs.cache
+D:\Develop_Project\DeviceConfigurationService\Authorization\obj\Release\netcoreapp2.0\Authorization.AssemblyInfo.cs
+D:\Develop_Project\DeviceConfigurationService\Authorization\obj\Release\netcoreapp2.0\Authorization.dll
+D:\Develop_Project\DeviceConfigurationService\Authorization\obj\Release\netcoreapp2.0\Authorization.pdb
+C:\Users\wenqi\Desktop\GST\2_GST_Remote_Monitor\5_Code\DeviceConfigurationService\Authorization\bin\Release\netcoreapp2.0\Authorization.deps.json
+C:\Users\wenqi\Desktop\GST\2_GST_Remote_Monitor\5_Code\DeviceConfigurationService\Authorization\bin\Release\netcoreapp2.0\Authorization.runtimeconfig.json
+C:\Users\wenqi\Desktop\GST\2_GST_Remote_Monitor\5_Code\DeviceConfigurationService\Authorization\bin\Release\netcoreapp2.0\Authorization.runtimeconfig.dev.json
+C:\Users\wenqi\Desktop\GST\2_GST_Remote_Monitor\5_Code\DeviceConfigurationService\Authorization\bin\Release\netcoreapp2.0\Authorization.dll
+C:\Users\wenqi\Desktop\GST\2_GST_Remote_Monitor\5_Code\DeviceConfigurationService\Authorization\bin\Release\netcoreapp2.0\Authorization.pdb
+C:\Users\wenqi\Desktop\GST\2_GST_Remote_Monitor\5_Code\DeviceConfigurationService\Authorization\obj\Release\netcoreapp2.0\Authorization.csprojAssemblyReference.cache
+C:\Users\wenqi\Desktop\GST\2_GST_Remote_Monitor\5_Code\DeviceConfigurationService\Authorization\obj\Release\netcoreapp2.0\Authorization.csproj.CoreCompileInputs.cache
+C:\Users\wenqi\Desktop\GST\2_GST_Remote_Monitor\5_Code\DeviceConfigurationService\Authorization\obj\Release\netcoreapp2.0\Authorization.AssemblyInfoInputs.cache
+C:\Users\wenqi\Desktop\GST\2_GST_Remote_Monitor\5_Code\DeviceConfigurationService\Authorization\obj\Release\netcoreapp2.0\Authorization.AssemblyInfo.cs
+C:\Users\wenqi\Desktop\GST\2_GST_Remote_Monitor\5_Code\DeviceConfigurationService\Authorization\obj\Release\netcoreapp2.0\Authorization.dll
+C:\Users\wenqi\Desktop\GST\2_GST_Remote_Monitor\5_Code\DeviceConfigurationService\Authorization\obj\Release\netcoreapp2.0\Authorization.pdb
+C:\Users\wenqi\Documents\Visual Studio 2017\Projects\DeviceConfigurationService\Authorization\bin\Release\netcoreapp2.0\Authorization.deps.json
+C:\Users\wenqi\Documents\Visual Studio 2017\Projects\DeviceConfigurationService\Authorization\bin\Release\netcoreapp2.0\Authorization.runtimeconfig.json
+C:\Users\wenqi\Documents\Visual Studio 2017\Projects\DeviceConfigurationService\Authorization\bin\Release\netcoreapp2.0\Authorization.runtimeconfig.dev.json
+C:\Users\wenqi\Documents\Visual Studio 2017\Projects\DeviceConfigurationService\Authorization\bin\Release\netcoreapp2.0\Authorization.dll
+C:\Users\wenqi\Documents\Visual Studio 2017\Projects\DeviceConfigurationService\Authorization\bin\Release\netcoreapp2.0\Authorization.pdb
+C:\Users\wenqi\Documents\Visual Studio 2017\Projects\DeviceConfigurationService\Authorization\obj\Release\netcoreapp2.0\Authorization.csprojAssemblyReference.cache
+C:\Users\wenqi\Documents\Visual Studio 2017\Projects\DeviceConfigurationService\Authorization\obj\Release\netcoreapp2.0\Authorization.csproj.CoreCompileInputs.cache
+C:\Users\wenqi\Documents\Visual Studio 2017\Projects\DeviceConfigurationService\Authorization\obj\Release\netcoreapp2.0\Authorization.AssemblyInfoInputs.cache
+C:\Users\wenqi\Documents\Visual Studio 2017\Projects\DeviceConfigurationService\Authorization\obj\Release\netcoreapp2.0\Authorization.AssemblyInfo.cs
+C:\Users\wenqi\Documents\Visual Studio 2017\Projects\DeviceConfigurationService\Authorization\obj\Release\netcoreapp2.0\Authorization.dll
+C:\Users\wenqi\Documents\Visual Studio 2017\Projects\DeviceConfigurationService\Authorization\obj\Release\netcoreapp2.0\Authorization.pdb
+D:\DeviceConfigurationService\Authorization\bin\Release\netcoreapp2.0\Authorization.deps.json
+D:\DeviceConfigurationService\Authorization\bin\Release\netcoreapp2.0\Authorization.runtimeconfig.json
+D:\DeviceConfigurationService\Authorization\bin\Release\netcoreapp2.0\Authorization.runtimeconfig.dev.json
+D:\DeviceConfigurationService\Authorization\bin\Release\netcoreapp2.0\Authorization.dll
+D:\DeviceConfigurationService\Authorization\bin\Release\netcoreapp2.0\Authorization.pdb
+D:\DeviceConfigurationService\Authorization\obj\Release\netcoreapp2.0\Authorization.csprojAssemblyReference.cache
+D:\DeviceConfigurationService\Authorization\obj\Release\netcoreapp2.0\Authorization.csproj.CoreCompileInputs.cache
+D:\DeviceConfigurationService\Authorization\obj\Release\netcoreapp2.0\Authorization.AssemblyInfoInputs.cache
+D:\DeviceConfigurationService\Authorization\obj\Release\netcoreapp2.0\Authorization.AssemblyInfo.cs
+D:\DeviceConfigurationService\Authorization\obj\Release\netcoreapp2.0\Authorization.dll
+D:\DeviceConfigurationService\Authorization\obj\Release\netcoreapp2.0\Authorization.pdb
+C:\Users\wenqi\OneDrive\DeviceConfigurationService\code 0629\gst-backend-service\DeviceConfigurationService\Authorization\bin\Release\netcoreapp2.0\Authorization.deps.json
+C:\Users\wenqi\OneDrive\DeviceConfigurationService\code 0629\gst-backend-service\DeviceConfigurationService\Authorization\bin\Release\netcoreapp2.0\Authorization.runtimeconfig.json
+C:\Users\wenqi\OneDrive\DeviceConfigurationService\code 0629\gst-backend-service\DeviceConfigurationService\Authorization\bin\Release\netcoreapp2.0\Authorization.runtimeconfig.dev.json
+C:\Users\wenqi\OneDrive\DeviceConfigurationService\code 0629\gst-backend-service\DeviceConfigurationService\Authorization\bin\Release\netcoreapp2.0\Authorization.dll
+C:\Users\wenqi\OneDrive\DeviceConfigurationService\code 0629\gst-backend-service\DeviceConfigurationService\Authorization\bin\Release\netcoreapp2.0\Authorization.pdb
+C:\Users\wenqi\OneDrive\DeviceConfigurationService\code 0629\gst-backend-service\DeviceConfigurationService\Authorization\obj\Release\netcoreapp2.0\Authorization.csprojAssemblyReference.cache
+C:\Users\wenqi\OneDrive\DeviceConfigurationService\code 0629\gst-backend-service\DeviceConfigurationService\Authorization\obj\Release\netcoreapp2.0\Authorization.csproj.CoreCompileInputs.cache
+C:\Users\wenqi\OneDrive\DeviceConfigurationService\code 0629\gst-backend-service\DeviceConfigurationService\Authorization\obj\Release\netcoreapp2.0\Authorization.AssemblyInfoInputs.cache
+C:\Users\wenqi\OneDrive\DeviceConfigurationService\code 0629\gst-backend-service\DeviceConfigurationService\Authorization\obj\Release\netcoreapp2.0\Authorization.AssemblyInfo.cs
+C:\Users\wenqi\OneDrive\DeviceConfigurationService\code 0629\gst-backend-service\DeviceConfigurationService\Authorization\obj\Release\netcoreapp2.0\Authorization.dll
+C:\Users\wenqi\OneDrive\DeviceConfigurationService\code 0629\gst-backend-service\DeviceConfigurationService\Authorization\obj\Release\netcoreapp2.0\Authorization.pdb
+C:\Users\XUWENQI\Desktop\gitlab\gst-backend-service\DeviceConfigurationService\Authorization\bin\Release\netcoreapp2.0\Authorization.deps.json
+C:\Users\XUWENQI\Desktop\gitlab\gst-backend-service\DeviceConfigurationService\Authorization\bin\Release\netcoreapp2.0\Authorization.runtimeconfig.json
+C:\Users\XUWENQI\Desktop\gitlab\gst-backend-service\DeviceConfigurationService\Authorization\bin\Release\netcoreapp2.0\Authorization.runtimeconfig.dev.json
+C:\Users\XUWENQI\Desktop\gitlab\gst-backend-service\DeviceConfigurationService\Authorization\bin\Release\netcoreapp2.0\Authorization.dll
+C:\Users\XUWENQI\Desktop\gitlab\gst-backend-service\DeviceConfigurationService\Authorization\bin\Release\netcoreapp2.0\Authorization.pdb
+C:\Users\XUWENQI\Desktop\gitlab\gst-backend-service\DeviceConfigurationService\Authorization\obj\Release\netcoreapp2.0\Authorization.csprojAssemblyReference.cache
+C:\Users\XUWENQI\Desktop\gitlab\gst-backend-service\DeviceConfigurationService\Authorization\obj\Release\netcoreapp2.0\Authorization.csproj.CoreCompileInputs.cache
+C:\Users\XUWENQI\Desktop\gitlab\gst-backend-service\DeviceConfigurationService\Authorization\obj\Release\netcoreapp2.0\Authorization.AssemblyInfoInputs.cache
+C:\Users\XUWENQI\Desktop\gitlab\gst-backend-service\DeviceConfigurationService\Authorization\obj\Release\netcoreapp2.0\Authorization.AssemblyInfo.cs
+C:\Users\XUWENQI\Desktop\gitlab\gst-backend-service\DeviceConfigurationService\Authorization\obj\Release\netcoreapp2.0\Authorization.dll
+C:\Users\XUWENQI\Desktop\gitlab\gst-backend-service\DeviceConfigurationService\Authorization\obj\Release\netcoreapp2.0\Authorization.pdb
+C:\Users\XUWENQI\Desktop\doc\gst-backend-service\DeviceConfigurationService\Authorization\bin\Release\netcoreapp2.0\Authorization.deps.json
+C:\Users\XUWENQI\Desktop\doc\gst-backend-service\DeviceConfigurationService\Authorization\bin\Release\netcoreapp2.0\Authorization.runtimeconfig.json
+C:\Users\XUWENQI\Desktop\doc\gst-backend-service\DeviceConfigurationService\Authorization\bin\Release\netcoreapp2.0\Authorization.runtimeconfig.dev.json
+C:\Users\XUWENQI\Desktop\doc\gst-backend-service\DeviceConfigurationService\Authorization\bin\Release\netcoreapp2.0\Authorization.dll
+C:\Users\XUWENQI\Desktop\doc\gst-backend-service\DeviceConfigurationService\Authorization\bin\Release\netcoreapp2.0\Authorization.pdb
+C:\Users\XUWENQI\Desktop\doc\gst-backend-service\DeviceConfigurationService\Authorization\obj\Release\netcoreapp2.0\Authorization.csprojAssemblyReference.cache
+C:\Users\XUWENQI\Desktop\doc\gst-backend-service\DeviceConfigurationService\Authorization\obj\Release\netcoreapp2.0\Authorization.csproj.CoreCompileInputs.cache
+C:\Users\XUWENQI\Desktop\doc\gst-backend-service\DeviceConfigurationService\Authorization\obj\Release\netcoreapp2.0\Authorization.AssemblyInfoInputs.cache
+C:\Users\XUWENQI\Desktop\doc\gst-backend-service\DeviceConfigurationService\Authorization\obj\Release\netcoreapp2.0\Authorization.AssemblyInfo.cs
+C:\Users\XUWENQI\Desktop\doc\gst-backend-service\DeviceConfigurationService\Authorization\obj\Release\netcoreapp2.0\Authorization.dll
+C:\Users\XUWENQI\Desktop\doc\gst-backend-service\DeviceConfigurationService\Authorization\obj\Release\netcoreapp2.0\Authorization.pdb
+C:\Users\wenqi\Documents\DeviceConfigurationService\gst-backend-service\gst-backend-service\DeviceConfigurationService\Authorization\obj\Release\netcoreapp2.0\Authorization.csprojAssemblyReference.cache
+C:\Users\wenqi\Documents\DeviceConfigurationService\gst-backend-service\gst-backend-service\DeviceConfigurationService\Authorization\obj\Release\netcoreapp2.0\Authorization.csproj.CoreCompileInputs.cache
+C:\Users\wenqi\Documents\DeviceConfigurationService\gst-backend-service\gst-backend-service\DeviceConfigurationService\Authorization\obj\Release\netcoreapp2.0\Authorization.AssemblyInfoInputs.cache
+C:\Users\wenqi\Documents\DeviceConfigurationService\gst-backend-service\gst-backend-service\DeviceConfigurationService\Authorization\obj\Release\netcoreapp2.0\Authorization.AssemblyInfo.cs
+C:\Users\wenqi\Documents\DeviceConfigurationService\gst-backend-service\gst-backend-service\DeviceConfigurationService\Authorization\obj\Release\netcoreapp2.0\Authorization.dll
+C:\Users\wenqi\Documents\DeviceConfigurationService\gst-backend-service\gst-backend-service\DeviceConfigurationService\Authorization\obj\Release\netcoreapp2.0\Authorization.pdb
+C:\Users\wenqi\Documents\DeviceConfigurationService\gst-backend-service\gst-backend-service\DeviceConfigurationService\Authorization\bin\Release\netcoreapp2.0\Authorization.deps.json
+C:\Users\wenqi\Documents\DeviceConfigurationService\gst-backend-service\gst-backend-service\DeviceConfigurationService\Authorization\bin\Release\netcoreapp2.0\Authorization.runtimeconfig.json
+C:\Users\wenqi\Documents\DeviceConfigurationService\gst-backend-service\gst-backend-service\DeviceConfigurationService\Authorization\bin\Release\netcoreapp2.0\Authorization.runtimeconfig.dev.json
+C:\Users\wenqi\Documents\DeviceConfigurationService\gst-backend-service\gst-backend-service\DeviceConfigurationService\Authorization\bin\Release\netcoreapp2.0\Authorization.dll
+C:\Users\wenqi\Documents\DeviceConfigurationService\gst-backend-service\gst-backend-service\DeviceConfigurationService\Authorization\bin\Release\netcoreapp2.0\Authorization.pdb
+C:\Users\XUWENQI\Desktop\doc\GST-Cloud\Authorization\bin\Release\netcoreapp2.0\Authorization.deps.json
+C:\Users\XUWENQI\Desktop\doc\GST-Cloud\Authorization\bin\Release\netcoreapp2.0\Authorization.runtimeconfig.json
+C:\Users\XUWENQI\Desktop\doc\GST-Cloud\Authorization\bin\Release\netcoreapp2.0\Authorization.runtimeconfig.dev.json
+C:\Users\XUWENQI\Desktop\doc\GST-Cloud\Authorization\bin\Release\netcoreapp2.0\Authorization.dll
+C:\Users\XUWENQI\Desktop\doc\GST-Cloud\Authorization\bin\Release\netcoreapp2.0\Authorization.pdb
+C:\Users\XUWENQI\Desktop\doc\GST-Cloud\Authorization\obj\Release\netcoreapp2.0\Authorization.csprojAssemblyReference.cache
+C:\Users\XUWENQI\Desktop\doc\GST-Cloud\Authorization\obj\Release\netcoreapp2.0\Authorization.csproj.CoreCompileInputs.cache
+C:\Users\XUWENQI\Desktop\doc\GST-Cloud\Authorization\obj\Release\netcoreapp2.0\Authorization.AssemblyInfoInputs.cache
+C:\Users\XUWENQI\Desktop\doc\GST-Cloud\Authorization\obj\Release\netcoreapp2.0\Authorization.AssemblyInfo.cs
+C:\Users\XUWENQI\Desktop\doc\GST-Cloud\Authorization\obj\Release\netcoreapp2.0\Authorization.dll
+C:\Users\XUWENQI\Desktop\doc\GST-Cloud\Authorization\obj\Release\netcoreapp2.0\Authorization.pdb
+C:\Users\wenqi\Documents\DeviceConfigurationService\GST-Cloud-Without_Auth\Authorization\bin\Release\netcoreapp2.0\Authorization.deps.json
+C:\Users\wenqi\Documents\DeviceConfigurationService\GST-Cloud-Without_Auth\Authorization\bin\Release\netcoreapp2.0\Authorization.runtimeconfig.json
+C:\Users\wenqi\Documents\DeviceConfigurationService\GST-Cloud-Without_Auth\Authorization\bin\Release\netcoreapp2.0\Authorization.runtimeconfig.dev.json
+C:\Users\wenqi\Documents\DeviceConfigurationService\GST-Cloud-Without_Auth\Authorization\bin\Release\netcoreapp2.0\Authorization.dll
+C:\Users\wenqi\Documents\DeviceConfigurationService\GST-Cloud-Without_Auth\Authorization\bin\Release\netcoreapp2.0\Authorization.pdb
+C:\Users\wenqi\Documents\DeviceConfigurationService\GST-Cloud-Without_Auth\Authorization\obj\Release\netcoreapp2.0\Authorization.csprojAssemblyReference.cache
+C:\Users\wenqi\Documents\DeviceConfigurationService\GST-Cloud-Without_Auth\Authorization\obj\Release\netcoreapp2.0\Authorization.csproj.CoreCompileInputs.cache
+C:\Users\wenqi\Documents\DeviceConfigurationService\GST-Cloud-Without_Auth\Authorization\obj\Release\netcoreapp2.0\Authorization.AssemblyInfoInputs.cache
+C:\Users\wenqi\Documents\DeviceConfigurationService\GST-Cloud-Without_Auth\Authorization\obj\Release\netcoreapp2.0\Authorization.AssemblyInfo.cs
+C:\Users\wenqi\Documents\DeviceConfigurationService\GST-Cloud-Without_Auth\Authorization\obj\Release\netcoreapp2.0\Authorization.dll
+C:\Users\wenqi\Documents\DeviceConfigurationService\GST-Cloud-Without_Auth\Authorization\obj\Release\netcoreapp2.0\Authorization.pdb
