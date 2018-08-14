@@ -1,5 +1,5 @@
-C:\Users\wenqi\Documents\DeviceConfigurationService\GST-Cloud-Without_Auth\Authorization
+C:\Users\wenqi\Documents\DeviceConfigurationService\Data-Transfer-Service\GST-Cloud-Without_Auth\Authorization
 --output-path=obj\Release\netcoreapp2.0\
 --application-name=Authorization
---content-root=C:\Users\wenqi\Documents\DeviceConfigurationService\GST-Cloud-Without_Auth\Authorization
+--content-root=C:\Users\wenqi\Documents\DeviceConfigurationService\Data-Transfer-Service\GST-Cloud-Without_Auth\Authorization
 --file=

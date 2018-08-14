@@ -49,6 +49,14 @@ namespace Authorization.Controllers
             return tokenstr;
         }
 
+        [HttpGet]
+        [Route("queryKey/{projectId}")]
+        public String QueryKey(String projectId)
+        {
+            String tokenstr = TokenManager.instance.queryKey(projectId);
+            return tokenstr;
+        }
+
         // make tokon invalid
         [HttpGet]
         [Route("invalidate/{projectId}")]
